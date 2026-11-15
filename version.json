@@ -1,0 +1,8 @@
+{
+  "appName": "StreamBeat",
+  "versionName": "0.4.5",
+  "versionCode": 9,
+  "releaseDate": "2026-11-14",
+  "notes": "Deduplicación automática por formato, aviso Aceptar/Cancelar al cambiar entre audio y video, y nuevo ícono de StreamBeat.",
+  "apkUrl": "https://github.com/navi1896/navi-music/releases/latest/download/NaviMusic.apk"
+}
