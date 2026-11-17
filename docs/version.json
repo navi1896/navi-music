@@ -1,8 +1,8 @@
 {
   "appName": "StreamBeat",
-  "versionName": "0.5.2",
-  "versionCode": 12,
+  "versionName": "0.5.3",
+  "versionCode": 13,
   "releaseDate": "2026-11-16",
-  "notes": "Confirmación antes de borrar canciones o playlists y restauración automática en Biblioteca al volver a descargar.",
+  "notes": "Confirmación antes de borrar, restauración automática en Biblioteca y soporte correcto de enlaces youtu.be con parámetro ?list=.",
   "apkUrl": "https://github.com/navi1896/navi-music/releases/latest/download/NaviMusic.apk"
 }
