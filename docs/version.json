@@ -1,8 +1,8 @@
 {
   "appName": "StreamBeat",
-  "versionName": "0.4.5",
-  "versionCode": 9,
-  "releaseDate": "2026-11-14",
-  "notes": "Deduplicación automática por formato, aviso Aceptar/Cancelar al cambiar entre audio y video, y nuevo ícono de StreamBeat.",
+  "versionName": "0.5.2",
+  "versionCode": 12,
+  "releaseDate": "2026-11-16",
+  "notes": "Confirmación antes de borrar canciones o playlists y restauración automática en Biblioteca al volver a descargar.",
   "apkUrl": "https://github.com/navi1896/navi-music/releases/latest/download/NaviMusic.apk"
 }
